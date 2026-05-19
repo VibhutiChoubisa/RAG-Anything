@@ -26,47 +26,23 @@ This repo is a battle-tested RAG engineering playground, covering:
 
 Basic RAG pipelines, chunking, CSV/JSON retrieval, reliable RAG patterns.
 
-🔍 Query Enhancement
-Query rewriting
-HyDE (Hypothetical Document Embeddings)
-HyPE (Prompt Embeddings)
-Sub-query decomposition
-📚 Context Engineering
-Semantic chunking
-Contextual chunk headers
-Context window expansion
-Context compression
-Document augmentation
-🚀 Advanced Retrieval
-Hybrid search (BM25 + vector)
-Reranking (LLM + cross-encoders)
-Hierarchical indices
-Dartboard retrieval
-Multimodal RAG
-🔁 Adaptive Systems
-Feedback-loop retrieval
-Adaptive query routing
-📊 Evaluation Layer
-DeepEval
-RAGAS-style evaluation
-GroUSE framework
-Open-RAG-Eval
-Hallucination detection
-🧠 Memory & Reasoning
-MemoRAG (memory-augmented retrieval)
-Persistent context systems
-Multi-query reasoning pipelines
-🏗️ Advanced Architectures
-GraphRAG (Microsoft)
-Knowledge Graph RAG
-RAPTOR
-Self-RAG
-Corrective RAG (CRAG)
-Agentic RAG systems
+🔍 Query Enhancement: Query rewriting; HyDE (Hypothetical Document Embeddings); HyPE (Prompt Embeddings); Sub-query decomposition
+
+📚 Context Engineering: Semantic chunking; Contextual chunk headers; Context window expansion; Context compression; Document augmentation
+
+🚀 Advanced Retrieval: Hybrid search (BM25 + vector); Reranking (LLM + cross-encoders); Hierarchical indices; Dartboard retrieval; Multimodal RAG
+
+🔁 Adaptive Systems: Feedback-loop retrieval; Adaptive query routing
+
+📊 Evaluation Layer: DeepEval; RAGAS-style evaluation; GroUSE framework; Open-RAG-Eval; Hallucination detection
+
+🧠 Memory & Reasoning; MemoRAG (memory-augmented retrieval); Persistent context systems; Multi-query reasoning pipelines
+
 
 🧠 Featured Techniques
 
-<img width="800" height="454" alt="image" src="https://github.com/user-attachments/assets/5ca97247-3db7-4aea-a1e4-e89e3d23a800" />
+<img width="1536" height="1024" alt="ChatGPT Image May 19, 2026, 11_02_09 PM" src="https://github.com/user-attachments/assets/186e703e-da2a-4101-85c6-32a12c598abc" />
+
 
 🔗 Fusion Retrieval
 📈 Intelligent Reranking
