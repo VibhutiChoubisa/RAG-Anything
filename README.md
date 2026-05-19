@@ -1,25 +1,13 @@
 🧠🚀 Advanced RAG Techniques — All-in-One Repository
 <img width="1408" height="704" alt="image" src="https://github.com/user-attachments/assets/6fe4d75c-aa17-4a0d-b2b9-c4377c52320e" />
 
-📌 Badges
-<p align="center">
-
-
-
-
-
-
-
-
-
-
-</p>
-⚡ What is this?
 
 Retrieval-Augmented Generation (RAG) combines:
 
 🔎 Search / Retrieval systems
+
 🧠 Large Language Models
+
 📚 External knowledge sources
 
 This repo is a battle-tested RAG engineering playground, covering:
@@ -75,8 +63,11 @@ RAPTOR
 Self-RAG
 Corrective RAG (CRAG)
 Agentic RAG systems
+
 🧠 Featured Techniques
-<p align="center"> <img src="https://raw.githubusercontent.com/your-username/assets/main/rag_pipeline.png" width="90%"> </p>
+
+<img width="800" height="454" alt="image" src="https://github.com/user-attachments/assets/5ca97247-3db7-4aea-a1e4-e89e3d23a800" />
+
 🔗 Fusion Retrieval
 📈 Intelligent Reranking
 🧩 Semantic Chunking
