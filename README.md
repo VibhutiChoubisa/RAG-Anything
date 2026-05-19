@@ -1,5 +1,6 @@
 🧠🚀 Advanced RAG Techniques — All-in-One Repository
-<p align="center"> <img src="https://raw.githubusercontent.com/your-username/assets/main/rag_banner.png" alt="RAG Banner" width="100%"> </p> <p align="center"> <b>A complete, production-grade collection of Retrieval-Augmented Generation techniques — from fundamentals to cutting-edge research systems.</b> </p>
+<p align="center"> <img src="<img width="1408" height="704" alt="image" src="https://github.com/user-attachments/assets/1df40e70-d525-41e2-b543-48718a801436" />
+" alt="RAG Banner" width="100%"> </p> <p align="center"> <b>A complete, production-grade collection of Retrieval-Augmented Generation techniques — from fundamentals to cutting-edge research systems.</b> </p>
 📌 Badges
 <p align="center">
 
